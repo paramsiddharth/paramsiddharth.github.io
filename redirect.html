@@ -1,0 +1,12 @@
+<html>
+  <body>
+    <script>
+      // Use %2F for forward slashes.
+      document.title = 'Redirecting...';
+      let urlpref = 'http://dynamic.paramsid.com/';
+      let param = new URLSearchParams(location.search);
+      let tgt = param.get('to');
+      window.location = urlpref+tgt;
+    </script>
+  </body>
+</html>
