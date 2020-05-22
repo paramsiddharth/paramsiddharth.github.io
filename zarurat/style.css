@@ -67,6 +67,12 @@ body {
     display: inline-block;
 }
 
+#top-img {
+    height: var(--titlesize);
+    width: var(--titlesize);
+    border-radius: 12px;
+}
+
 .top-menu {
     position: fixed;
     right: 10px;
@@ -184,6 +190,7 @@ body {
     z-index: -10;
     width: 94%;
     margin: 0 auto;
+    min-height: 200px;
     padding: 8px 0 22px 0;
 }
 
@@ -200,6 +207,67 @@ h2, h3, h4, h5, h6 {
 
 p {
     margin: 1px auto;
+}
+
+.flex {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.social-icon {
+    height: 32px;
+    width: 32px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    margin: 5px;
+}
+
+.social-icon > :first-child {
+    font-size: 25px;
+    display: inline-block;
+}
+
+.btn-insta {
+    background: #FFF;
+}
+
+.btn-insta:hover {
+    background: #CCC;
+}
+
+.btn-spotify {
+    background: #2D2;
+}
+
+.btn-spotify:hover {
+    background: #4A4;
+}
+
+.btn-stack {
+    background: #222426;
+}
+
+.btn-stack:hover {
+    background: #111315;
+}
+
+.fa-spotify {
+    color: #FFF;
+}
+
+.fa-instagram {
+    color: transparent;
+    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+    background: -webkit-radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+    background-clip: text;
+    -webkit-background-clip: text;
+}
+
+.fa-stack-overflow {
+    color: #F48024;
 }
 
 #bottom {
