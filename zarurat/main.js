@@ -17,7 +17,15 @@ const sizeHandler = function() {
         });
         $('#bottom').show();
         if (!mob) mobileHandler();
-    } else {}
+    } else {
+        $('#top').show();
+        $('.top-menu').hide();
+        $('#menu').show();
+        $('#main').css({
+            'padding-top': '+=' + $('#top').outerHeight()//+$('#menu').outerHeight()
+        });
+        $('#bottom').show();
+    }
 };
 
 const mobileHandler = function() {
