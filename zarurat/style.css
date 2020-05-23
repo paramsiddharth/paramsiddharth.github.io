@@ -21,7 +21,13 @@
     --menuhover: #FFF;
     --menubord: ridge 1px #555;
     --menushade: 0 2px 2px #222;
+    --breadbg: #181818;
+    --breadtx: #CCC;
+    --breadother: #666;
+    --breadactive: #999;
     --mainhead: 28px;
+    --codetx: #EFEFEF;
+    --codebg: #212121;
     --hcolour: #FEE;
     --bottombg: #212121;
     --bottomtx: #DDD;
@@ -121,6 +127,7 @@ body {
 
 .menu-item:hover {
     color: var(--menuhover);
+    background-color: var(--menubtnhovbg);
 }
 
 #menu ul li {
@@ -129,6 +136,21 @@ body {
 
 #menu ul li:last-of-type {
     border-bottom: none;
+}
+
+.breadcrumb {
+    padding: 3px 8px;
+    background-color: var(--breadbg);
+    color: var(--breadother);
+}
+
+.breadcrumb a {
+    text-decoration: none;
+    color: var(--breadtx);
+}
+
+.breadcrumb a.active {
+    color: var(--breadactive);
 }
 
 @media (min-width: 992px) {
@@ -206,7 +228,17 @@ h2, h3, h4, h5, h6 {
 }
 
 p {
-    margin: 1px auto;
+    margin: 8px auto;
+}
+
+.code {
+    width: 90%;
+    padding: 5px;
+    background: var(--codebg);
+    color: var(--codetx);
+    font-family: monospace;
+    overflow-x: hidden;
+    max-height: 210px;
 }
 
 .flex {
@@ -219,6 +251,7 @@ p {
     height: 32px;
     width: 32px;
     display: flex;
+    text-decoration: none;
     justify-content: center;
     align-items: center;
     border-radius: 5px;
@@ -268,6 +301,25 @@ p {
 
 .fa-stack-overflow {
     color: #F48024;
+}
+
+@media (min-width: 992px) {
+    .social-icon {
+        width: 100px;
+    }
+    .social-icon.btn-spotify {
+        color: #FFF;
+    }
+    .social-icon.btn-insta {
+        color: #000;
+    }
+    .social-icon.btn-stack {
+        color: #FFF;
+        width: 160px;
+    }
+    .social-icon.btn-google {
+        width: 200px;
+    }
 }
 
 #bottom {

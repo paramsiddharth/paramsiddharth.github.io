@@ -16,6 +16,7 @@ const sizeHandler = function() {
             'padding-top': '+=' + $('#top').outerHeight()//+$('#menu').outerHeight()
         });
         $('#bottom').show();
+        $('.desktop').hide();
         if (!mob) mobileHandler();
     } else {
         $('#top').show();
@@ -24,6 +25,7 @@ const sizeHandler = function() {
         $('#main').css({
             'padding-top': '+=' + $('#top').outerHeight()//+$('#menu').outerHeight()
         });
+        $('.mobile').hide();
         $('#bottom').show();
     }
 };
