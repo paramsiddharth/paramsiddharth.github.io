@@ -11,7 +11,7 @@ $(function() {
         let t;
         t = $('<p></p>').html(obj.about.replace(/\n/g, '<br/>'));
         dat.append(t);
-        t = $('<img alt="Cover Art" style="display:block;width:80%;margin:0 auto;border: solid 1px white;">').attr('src', artdir+obj.art);
+        t = $('<img alt="Cover Art" style="display:block;width:80%;max-width:250px;margin:0 auto;border: solid 1px white;">').attr('src', artdir+obj.art);
         dat.append(t);
         t = $('<h2></h2>').text('Details');
         dat.append(t);
