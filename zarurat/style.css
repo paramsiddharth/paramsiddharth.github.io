@@ -149,6 +149,11 @@ body {
     color: var(--breadtx);
 }
 
+.breadcrumb a:before {
+    content: '> ';
+    color: var(--breadother);
+}
+
 .breadcrumb a.active {
     color: var(--breadactive);
 }
