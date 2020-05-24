@@ -1,7 +1,7 @@
 {
     "name": "Personal Website",
     "about": "The website you are currently browsing. :) It is a personal website that shall represent me as a person. It should contain information about me and my work.",
-    "img": "../../../resources/me.jpg",
+    "img": "../../../zarurat/me.jpg",
     "details": {
         "Author": "Param Siddharth",
         "Type": "Personal Website",
