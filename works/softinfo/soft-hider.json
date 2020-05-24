@@ -1,0 +1,16 @@
+{
+    "name": "HIDER",
+    "about": "An application window which can be used to hide parts of the screen.",
+    "details": {
+        "Author": "Param Siddharth",
+        "Type": "Utility",
+        "User Inferface": "Windowed Application",
+        "Operating System": "Windows XP+ (32-Bit)",
+        "Language": "Microsoft Visual Basic",
+		"Years": "2013-2014"
+    },
+    "view": {
+        "Download Setup": "https://sites.google.com/site/downloadniureqqss/download/HIDER_Setup.zip?attredirects=0&d=1",
+        "GitHub": "https://github.com/paramsiddharth/hider"
+    }
+}

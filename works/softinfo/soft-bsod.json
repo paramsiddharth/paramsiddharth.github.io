@@ -1,0 +1,14 @@
+{
+    "name": "Blue Screen of Death (Simulation)",
+    "about": "A HyperText Application that simulates the popular Windows error.",
+    "details": {
+        "Author": "Param Siddharth",
+        "Type": "Error Simulation",
+        "Operating System": "Any OS supporting HTA",
+        "Language": "HyperText Application (HTA)",
+		"Year": "2014"
+    },
+    "view": {
+        "Download Setup": "https://sites.google.com/site/downloadniureqqss/download/Blue_Screen_of_Death_Setup.zip?attredirects=0&d=1"
+    }
+}

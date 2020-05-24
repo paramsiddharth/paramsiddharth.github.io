@@ -1,0 +1,15 @@
+{
+    "name": "Red Fusion",
+    "about": "A simple web browser.",
+    "details": {
+        "Author": "Param Siddharth",
+        "Type": "Web Browser",
+        "User Inferface": "Windowed Application",
+        "Operating System": "Windows XP+ (32-Bit)",
+        "Language": "Microsoft Visual Basic",
+		"Year": "2014"
+    },
+    "view": {
+        "Download Setup": "https://sites.google.com/site/downloadniureqqss/download/Red_Fusion_Setup.zip?attredirects=0&d=1"
+    }
+}

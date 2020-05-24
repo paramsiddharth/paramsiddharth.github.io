@@ -237,12 +237,13 @@ p {
 }
 
 .code {
-    width: 90%;
+    max-width: 90%;
     padding: 5px;
     background: var(--codebg);
     color: var(--codetx);
     font-family: monospace;
-    overflow-x: hidden;
+    white-space: nowrap;
+    overflow-x: auto;
     max-height: 210px;
 }
 

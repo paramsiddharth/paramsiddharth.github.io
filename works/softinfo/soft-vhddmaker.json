@@ -1,0 +1,15 @@
+{
+    "name": "Virtual Hard Disk Drive Maker",
+    "about": "A tool to use a local directory as a virtual disk drive.",
+    "details": {
+        "Author": "Param Siddharth",
+        "Type": "Utility",
+        "User Inferface": "Command-Line",
+        "Operating System": "Windows XP+ (32-Bit)",
+        "Language": "Windows Batch",
+		"Year": "2016"
+    },
+    "view": {
+        "Download Setup": "https://sites.google.com/site/downloadniureqqss/download/Virtual_Hard_Disk_Drive_Maker_Setup.zip?attredirects=0&d=1"
+    }
+}

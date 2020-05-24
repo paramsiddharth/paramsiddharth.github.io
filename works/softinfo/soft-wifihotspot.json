@@ -1,0 +1,19 @@
+{
+    "name": "WiFi Hotspot Maker",
+    "about": "Creates a simple WiFi LAN Hotspot.",
+    "img": "softpedia100.png",
+    "details": {
+        "Author": "Param Siddharth",
+        "Type": "Utility",
+        "User Inferface": "Windowed Application",
+        "Operating System": "Windows XP+ (32-Bit)",
+        "Language": "Windows Batch",
+		"Year": "2016",
+        "Award": "Certified 100% Secure by Softpedia"
+    },
+    "view": {
+        "Download Setup": "https://sites.google.com/site/downloadniureqqss/download/WiFi_Hotspot_Maker_Setup.zip?attredirects=0&d=1",
+        "Softpedia": "http://www.softpedia.com/get/Network-Tools/Misc-Networking-Tools/WiFi-Hotspot-Maker.shtml",
+        "GitHub": "https://github.com/paramsiddharth/wifihotspotmaker"
+    }
+}

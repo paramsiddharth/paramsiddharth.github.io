@@ -1,0 +1,13 @@
+{
+    "name": "Multilingual Programmes",
+    "about": "Same programmes written in multiple languages, currently including C, C++, Java, Python, HTML+CSS+JavaScript, PHP, MATLAB, Ruby, and Swift.",
+    "details": {
+        "Author": "Param Siddharth",
+        "Type": "Code Collection",
+        "Languages": "C, C++, Java, Python, HTML+CSS+JavaScript, PHP, MATLAB, Ruby, and Swift",
+		"Year": "2020 (Ongoing)"
+    },
+    "view": {
+        "GitHub": "https://github.com/paramsiddharth/Multilingual-Programmes"
+    }
+}

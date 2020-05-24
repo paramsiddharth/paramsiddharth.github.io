@@ -1,0 +1,16 @@
+{
+    "name": "DiceJS",
+    "about": "A JavaScript plugin that one can use in webpages to simulate interactive six-sided 2D raster dice. It is loaded with customizations and options that would allow the user to easily add dice into HTML elements.",
+    "img": "die_anim.gif",
+    "details": {
+        "Author": "Param Siddharth",
+        "Type": "Plugin",
+        "Language": "JavaScript",
+		"Year": "2020"
+    },
+    "view": {
+        "Download": "https://github.com/paramsiddharth/DiceJS/raw/master/source/dice.js",
+        "Documentation": "https://paramsiddharth.github.io/DiceJS/",
+        "GitHub": "https://github.com/paramsiddharth/DiceJS"
+    }
+}
