@@ -6,7 +6,8 @@
         "Type": "Website",
         "User Inferface": "Graphical",
         "Languages": "HTML, CSS, and JavaScript",
-		"Year": "2019"
+		"Year": "2019",
+		"Award": "First position in Progate's Week of Learning Webathon"
     },
     "view": {
         "Website": "http://paramsiddharth.github.io/webdevworld",
