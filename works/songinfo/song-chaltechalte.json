@@ -3,7 +3,8 @@
     "about": "A cover of the popular song, Chalte-Chalte.",
     "art": "covers.jpg",
     "details": {
-        "Artist": "Param Siddharth",
+        "Artist": "Lata Mangeshkar",
+        "Cover Artist": "Param Siddharth",
         "Type": "Cover",
         "Genre": "Classical",
         "Language": "Hindi",
