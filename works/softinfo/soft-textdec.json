@@ -12,6 +12,7 @@
 	},
 	"view": {
 		"Website": "https://paramsiddharth.github.io/textdec",
-		"GitHub": "https://github.com/paramsiddharth/textdec"
+		"GitHub": "https://github.com/paramsiddharth/textdec",
+		"Android App": "./soft.html?proj=tdecapp"
 	}
 }

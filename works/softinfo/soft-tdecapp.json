@@ -1,0 +1,19 @@
+{
+	"name": "Text Decorator App",
+	"about": "A free Android app for decorating text, performing transformations, and more.",
+	"img": "textdec-android.png",
+	"details": {
+		"Author": "Param Siddharth",
+		"Type": "Android App",
+		"User Inferface": "Graphical",
+		"Languages": "Kotlin, HTML, CSS, JavaScript",
+		"Plugins Used": "Gradle, jQuery, Popper.js, Bootstrap, and FontAwesome",
+		"Year": "2021"
+	},
+	"view": {
+		"Google Play Store": "https://play.google.com/store/apps/details?id=com.paramsid.textdec",
+		"APK": "https://github.com/paramsiddharth/textdec-android/releases/download/v1.0/com.paramsid.textdec-v1.0.apk",
+		"GitHub": "https://github.com/paramsiddharth/textdec-android",
+		"Web Version": "./soft.html?proj=textdec"
+	}
+}
