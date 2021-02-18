@@ -4,7 +4,11 @@
     "art": "mylife.jpg",
     "details": {
         "Artist": "Param Siddharth",
-        "Type": "Single",
+        "Type": "Album Track",
+        "Album": [
+            "My Life",
+            "mylife"
+        ],
         "Genre": "Hip-Hop",
         "Language": "English",
         "Length": "04:53",

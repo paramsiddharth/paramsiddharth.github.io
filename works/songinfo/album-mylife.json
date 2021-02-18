@@ -1,0 +1,13 @@
+{
+    "name": "My Life",
+    "about": "Me and my eccentric life.",
+    "art": "mylife.jpg",
+    "details": {
+        "Artist": "Param Siddharth",
+        "Type": "Album",
+        "Year": "2018"
+    },
+    "songs": {
+        "My Life": "mylife"
+    }
+}
