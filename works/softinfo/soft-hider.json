@@ -10,7 +10,7 @@
 		"Years": "2013-2014"
     },
     "view": {
-        "Download Setup": "https://github.com/paramsiddharth/files/raw/master/HIDER_Setup.zip",
+        "Download Setup": "/files/HIDER_Setup.zip",
         "GitHub": "https://github.com/paramsiddharth/hider"
     }
 }

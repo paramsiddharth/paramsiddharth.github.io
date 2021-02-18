@@ -10,7 +10,7 @@
 		"Year": "2018"
     },
     "view": {
-        "Download Setup": "https://github.com/paramsiddharth/files/raw/master/Count_Recorder_Setup.zip",
+        "Download Setup": "/files/Count_Recorder_Setup.zip",
         "GitHub": "https://github.com/paramsiddharth/countrecorder"
     }
 }
