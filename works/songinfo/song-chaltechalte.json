@@ -1,19 +1,19 @@
 {
-    "name": "Chalte-Chalte",
-    "about": "A cover of the popular song, Chalte-Chalte.",
-    "art": "covers.jpg",
-    "details": {
-        "Artist": "Lata Mangeshkar",
-        "Cover Artist": "Param Siddharth",
-        "Type": "Cover",
-        "Genre": "Classical",
-        "Language": "Hindi",
-        "Length": "04:12",
-        "Year": "2018"
-    },
-    "listen": {
-        "Download MP3": "/files/Chalte-Chalte.mp3",
-        "YouTube": "https://youtu.be/kLttyXk9lUM"
-    },
-    "lyrics": "चलते-चलते । चलते-चलते । \nयों ही कोई मिल गया था \nसर-ए-राह चलते-चलते । \nवहीं थमकर रह गई है \nमेरी रात ढलते-ढलते । \n\nजो कही गई न मुझसे \nवो ज़माना कह रहा है । \nकि फ़साना बन गई है \nमेरी बात टलते-टलते । \nयों ही… । \n\nशब-ए-इंतज़ार आख़िर \nकभी होगी मुख़्तसर भी । \nये चिराग़ बुझ रहे हैं \nमेरे साथ जलते-जलते । \nयों ही… ।"
+	"name": "Chalte-Chalte",
+	"about": "A cover of the popular song, Chalte-Chalte.",
+	"art": "covers.jpg",
+	"details": {
+		"Artist": "Lata Mangeshkar",
+		"Cover Artist": "Param Siddharth",
+		"Type": "Cover",
+		"Genre": "Classical",
+		"Language": "Hindi",
+		"Length": "04:12",
+		"Year": "2018"
+	},
+	"listen": {
+		"Download MP3": "/files/Chalte-Chalte.mp3",
+		"YouTube": "https://youtu.be/kLttyXk9lUM"
+	},
+	"lyrics": "चलते-चलते । चलते-चलते । \nयों ही कोई मिल गया था \nसर-ए-राह चलते-चलते । \nवहीं थमकर रह गई है \nमेरी रात ढलते-ढलते । \n\nजो कही गई न मुझसे \nवो ज़माना कह रहा है । \nकि फ़साना बन गई है \nमेरी बात टलते-टलते । \nयों ही… । \n\nशब-ए-इंतज़ार आख़िर \nकभी होगी मुख़्तसर भी । \nये चिराग़ बुझ रहे हैं \nमेरे साथ जलते-जलते । \nयों ही… ।"
 }

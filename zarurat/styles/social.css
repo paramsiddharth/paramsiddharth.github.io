@@ -1,117 +1,117 @@
 .flex {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
 }
 
 .social-icon {
-    height: 32px;
-    width: 32px;
-    display: flex;
-    text-decoration: none;
-    justify-content: center;
-    align-items: center;
-    border-radius: 5px;
-    margin: 5px;
+	height: 32px;
+	width: 32px;
+	display: flex;
+	text-decoration: none;
+	justify-content: center;
+	align-items: center;
+	border-radius: 5px;
+	margin: 5px;
 }
 
 .social-icon > :first-child {
-    font-size: 25px;
-    display: inline-block;
+	font-size: 25px;
+	display: inline-block;
 }
 
 .btn-patreon {
-    background: #F86754;
-    color: #FFF;
+	background: #F86754;
+	color: #FFF;
 }
 
 .btn-patreon:hover {
-    background: #E75643;
-    color: #FFF;
+	background: #E75643;
+	color: #FFF;
 }
 
 .btn-deviant {
-    background: #222426;
-    color: #FFF;
-    text-decoration: none;
+	background: #222426;
+	color: #FFF;
+	text-decoration: none;
 }
 
 .btn-deviant:hover {
-    background: #111315;
-    color: #FFF;
+	background: #111315;
+	color: #FFF;
 }
 
 .btn-twitch {
-    background: #6441A5;
-    color: #FFF;
+	background: #6441A5;
+	color: #FFF;
 }
 
 .btn-twitch:hover {
-    background: #533094;
-    color: #FFF;
+	background: #533094;
+	color: #FFF;
 }
 
 .btn-insta {
-    background: #FFF;
+	background: #FFF;
 }
 
 .btn-insta:hover {
-    background: #CCC;
+	background: #CCC;
 }
 
 .btn-spotify {
-    background: #2D2;
+	background: #2D2;
 }
 
 .btn-spotify:hover {
-    background: #4A4;
+	background: #4A4;
 }
 
 .btn-stack {
-    background: #222426;
+	background: #222426;
 }
 
 .btn-stack:hover {
-    background: #111315;
+	background: #111315;
 }
 
 .fa-spotify {
-    color: #FFF;
+	color: #FFF;
 }
 
 .fa-instagram {
-    color: transparent;
-    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
-    background: -webkit-radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
-    background-clip: text;
-    -webkit-background-clip: text;
+	color: transparent;
+	background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+	background: -webkit-radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+	background-clip: text;
+	-webkit-background-clip: text;
 }
 
 .fa-stack-overflow {
-    color: #F48024;
+	color: #F48024;
 }
 
 @media (min-width: 992px) {
-    .social-icon {
-        width: 100px;
-    }
-    .social-icon.btn-spotify {
-        color: #FFF;
-    }
-    .social-icon.btn-insta {
-        color: #000;
-    }
-    .social-icon.btn-stack {
-        color: #FFF;
-        width: 160px;
-    }
-    .social-icon.btn-google {
-        width: 200px;
-    }
-    .social-icon.btn-deviant {
-        width: 130px;
-    }
-    .social-icon.btn-patreon {
-        width: 100px;
-    }
+	.social-icon {
+		width: 100px;
+	}
+	.social-icon.btn-spotify {
+		color: #FFF;
+	}
+	.social-icon.btn-insta {
+		color: #000;
+	}
+	.social-icon.btn-stack {
+		color: #FFF;
+		width: 160px;
+	}
+	.social-icon.btn-google {
+		width: 200px;
+	}
+	.social-icon.btn-deviant {
+		width: 130px;
+	}
+	.social-icon.btn-patreon {
+		width: 100px;
+	}
 }

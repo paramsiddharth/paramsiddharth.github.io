@@ -1,14 +1,14 @@
 {
-    "name": "HTTP Status Codes",
-    "about": "A JavaScript library for working with HTTP status codes.",
-    "details": {
-        "Author": "Param Siddharth",
-        "Type": "Utility (Front-end, back-end, & command-line)",
-        "Language": "JavaScript",
+	"name": "HTTP Status Codes",
+	"about": "A JavaScript library for working with HTTP status codes.",
+	"details": {
+		"Author": "Param Siddharth",
+		"Type": "Utility (Front-end, back-end, & command-line)",
+		"Language": "JavaScript",
 		"Year": "2021"
-    },
-    "view": {
-        "NPM Registry": "https://www.npmjs.com/package/statushttp",
-        "GitHub": "https://github.com/paramsiddharth/statushttp"
-    }
+	},
+	"view": {
+		"NPM Registry": "https://www.npmjs.com/package/statushttp",
+		"GitHub": "https://github.com/paramsiddharth/statushttp"
+	}
 }

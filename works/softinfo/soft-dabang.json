@@ -1,14 +1,14 @@
 {
-    "name": "Dabangg Eyes",
-    "about": "An Instagram filter that lets you wear lovey-dovey heart-eyed Dabangg sunglasses.",
-    "img": "dabangg_eyes.png",
-    "details": {
-        "Author": "Param Siddharth",
-        "Type": "Instagram Filter",
-        "Software Used": "Blender and Spark AR",
+	"name": "Dabangg Eyes",
+	"about": "An Instagram filter that lets you wear lovey-dovey heart-eyed Dabangg sunglasses.",
+	"img": "dabangg_eyes.png",
+	"details": {
+		"Author": "Param Siddharth",
+		"Type": "Instagram Filter",
+		"Software Used": "Blender and Spark AR",
 		"Year": "2020"
-    },
-    "view": {
-        "Instagram": "https://www.instagram.com/ar/1551288528374309"
-    }
+	},
+	"view": {
+		"Instagram": "https://www.instagram.com/ar/1551288528374309"
+	}
 }

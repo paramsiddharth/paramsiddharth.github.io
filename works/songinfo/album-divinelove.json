@@ -1,16 +1,16 @@
 {
-    "name": "Divine Love",
-    "about": "An album of love songs.",
-    "art": "divinelove.jpg",
-    "details": {
-        "Artist": "Param Siddharth",
-        "Type": "Album",
-        "Year": "2018"
-    },
-    "songs": {
-        "Mashooqa": "mashooqa",
-        "Come To Me": "cometome",
-        "Infinity": "infinity",
-        "Dil Vich": "dilvich"
-    }
+	"name": "Divine Love",
+	"about": "An album of love songs.",
+	"art": "divinelove.jpg",
+	"details": {
+		"Artist": "Param Siddharth",
+		"Type": "Album",
+		"Year": "2018"
+	},
+	"songs": {
+		"Mashooqa": "mashooqa",
+		"Come To Me": "cometome",
+		"Infinity": "infinity",
+		"Dil Vich": "dilvich"
+	}
 }

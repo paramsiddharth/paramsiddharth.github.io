@@ -1,17 +1,17 @@
 {
-    "name": "Personal Website",
-    "about": "The website you are currently browsing. :) It is a personal website that shall represent me as a person. It should contain information about me and my work.",
-    "img": "../../../zarurat/me.jpg",
-    "details": {
-        "Author": "Param Siddharth",
-        "Type": "Personal Website",
-        "User Inferface": "Graphical",
-        "Language": "HTML, CSS, and JavaScript",
-        "Plugins Used": "jQuery, Bootstrap-Social, and FontAwesome",
+	"name": "Personal Website",
+	"about": "The website you are currently browsing. :) It is a personal website that shall represent me as a person. It should contain information about me and my work.",
+	"img": "../../../zarurat/me.jpg",
+	"details": {
+		"Author": "Param Siddharth",
+		"Type": "Personal Website",
+		"User Inferface": "Graphical",
+		"Language": "HTML, CSS, and JavaScript",
+		"Plugins Used": "jQuery, Bootstrap-Social, and FontAwesome",
 		"Year": "2020 (Ongoing)"
-    },
-    "view": {
-        "Website": "/",
-        "GitHub": "https://github.com/paramsiddharth/paramsiddharth.github.io"
-    }
+	},
+	"view": {
+		"Website": "/",
+		"GitHub": "https://github.com/paramsiddharth/paramsiddharth.github.io"
+	}
 }

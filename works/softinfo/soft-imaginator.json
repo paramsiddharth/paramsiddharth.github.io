@@ -1,14 +1,14 @@
 {
-    "name": "Imaginator",
-    "about": "An Express middleware that converts image tags to use data URIs instead of image files an HTML document.",
-    "details": {
-        "Author": "Param Siddharth",
-        "Type": "Plugin",
-        "Language": "JavaScript (NodeJS)",
+	"name": "Imaginator",
+	"about": "An Express middleware that converts image tags to use data URIs instead of image files an HTML document.",
+	"details": {
+		"Author": "Param Siddharth",
+		"Type": "Plugin",
+		"Language": "JavaScript (NodeJS)",
 		"Year": "2020"
-    },
-    "view": {
-        "NPM Registry": "https://www.npmjs.com/package/imaginator",
-        "GitHub": "https://github.com/paramsiddharth/imaginator"
-    }
+	},
+	"view": {
+		"NPM Registry": "https://www.npmjs.com/package/imaginator",
+		"GitHub": "https://github.com/paramsiddharth/imaginator"
+	}
 }

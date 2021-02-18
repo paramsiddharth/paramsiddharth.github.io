@@ -1,13 +1,13 @@
 {
-    "name": "Friends",
-    "about": "Songs for friends.",
-    "art": "friends.jpg",
-    "details": {
-        "Artist": "Param Siddharth",
-        "Type": "Album",
-        "Year": "2019"
-    },
-    "songs": {
-        "Arvind": "arvind"
-    }
+	"name": "Friends",
+	"about": "Songs for friends.",
+	"art": "friends.jpg",
+	"details": {
+		"Artist": "Param Siddharth",
+		"Type": "Album",
+		"Year": "2019"
+	},
+	"songs": {
+		"Arvind": "arvind"
+	}
 }

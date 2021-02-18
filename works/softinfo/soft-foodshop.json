@@ -1,16 +1,16 @@
 {
-    "name": "Food Shop",
-    "about": "A working e-commerce website build using Express and React, styled using Material-UI and Bootstrap.",
-    "details": {
-        "Author": "Param Siddharth",
-        "Type": "Web Application",
-        "User Inferface": "Graphical",
-        "Languages": "HTML, CSS, and JavaScript (Vanilla and NodeJS)",
-        "Plugins Used": "Bootstrap, Material-UI, React, and Express",
+	"name": "Food Shop",
+	"about": "A working e-commerce website build using Express and React, styled using Material-UI and Bootstrap.",
+	"details": {
+		"Author": "Param Siddharth",
+		"Type": "Web Application",
+		"User Inferface": "Graphical",
+		"Languages": "HTML, CSS, and JavaScript (Vanilla and NodeJS)",
+		"Plugins Used": "Bootstrap, Material-UI, React, and Express",
 		"Year": "2020"
-    },
-    "view": {
-        "Website": "http://paramsiddharth.github.io/web-cart",
-        "GitHub": "https://github.com/paramsiddharth/web-cart"
-    }
+	},
+	"view": {
+		"Website": "http://paramsiddharth.github.io/web-cart",
+		"GitHub": "https://github.com/paramsiddharth/web-cart"
+	}
 }

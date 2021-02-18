@@ -1,19 +1,19 @@
 {
-    "name": "MiniPlot",
-    "about": "A graphical application to plot equations of the form y = f(x).",
-    "img": "miniplot.png",
-    "details": {
-        "Author": "Param Siddharth",
-        "Type": "Mathematical Application",
-        "User Inferface": "Graphical",
-        "Operating System": "Windows (Cross-Platform Source Code)",
-        "Language": "Python",
-        "Plugins Used": "PySide2 (Qt for Python), Matplotlib, and Equation, all PyPI modules",
+	"name": "MiniPlot",
+	"about": "A graphical application to plot equations of the form y = f(x).",
+	"img": "miniplot.png",
+	"details": {
+		"Author": "Param Siddharth",
+		"Type": "Mathematical Application",
+		"User Inferface": "Graphical",
+		"Operating System": "Windows (Cross-Platform Source Code)",
+		"Language": "Python",
+		"Plugins Used": "PySide2 (Qt for Python), Matplotlib, and Equation, all PyPI modules",
 		"Year": "2020"
-    },
-    "view": {
-        "Download Setup": "https://github.com/paramsiddharth/miniplot/releases/download/v1.0.0.0/setup-miniplot.exe",
-        "Download Portable ZIP": "https://github.com/paramsiddharth/miniplot/releases/download/v1.0.0.0/miniplot.zip",
-        "GitHub": "https://github.com/paramsiddharth/miniplot"
-    }
+	},
+	"view": {
+		"Download Setup": "https://github.com/paramsiddharth/miniplot/releases/download/v1.0.0.0/setup-miniplot.exe",
+		"Download Portable ZIP": "https://github.com/paramsiddharth/miniplot/releases/download/v1.0.0.0/miniplot.zip",
+		"GitHub": "https://github.com/paramsiddharth/miniplot"
+	}
 }

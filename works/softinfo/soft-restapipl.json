@@ -1,16 +1,16 @@
 {
-    "name": "REST API Playground",
-    "about": "A virtual REST API for learners to play around with.",
-    "details": {
-        "Author": "Param Siddharth",
-        "Type": "Web Application",
-        "User Inferface": "Graphical",
-        "Languages": "HTML, CSS, JavaScript",
+	"name": "REST API Playground",
+	"about": "A virtual REST API for learners to play around with.",
+	"details": {
+		"Author": "Param Siddharth",
+		"Type": "Web Application",
+		"User Inferface": "Graphical",
+		"Languages": "HTML, CSS, JavaScript",
 		"Plugins Used": "jQuery, Popper.js, Bootstrap, and FontAwesome",
-        "Year": "2020"
-    },
-    "view": {
-        "Website": "https://paramsiddharth.github.io/rest-api-playground/",
-        "GitHub": "https://github.com/paramsiddharth/rest-api-playground"
-    }
+		"Year": "2020"
+	},
+	"view": {
+		"Website": "https://paramsiddharth.github.io/rest-api-playground/",
+		"GitHub": "https://github.com/paramsiddharth/rest-api-playground"
+	}
 }

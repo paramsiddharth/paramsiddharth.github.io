@@ -1,16 +1,16 @@
 {
-    "name": "Count Recorder",
-    "about": "A professional counting programme.",
-    "details": {
-        "Author": "Param Siddharth",
-        "Type": "Utility",
-        "User Inferface": "Command-Line",
-        "Operating System": "Windows XP+ (32-Bit)",
-        "Language": "Windows Batch",
+	"name": "Count Recorder",
+	"about": "A professional counting programme.",
+	"details": {
+		"Author": "Param Siddharth",
+		"Type": "Utility",
+		"User Inferface": "Command-Line",
+		"Operating System": "Windows XP+ (32-Bit)",
+		"Language": "Windows Batch",
 		"Year": "2018"
-    },
-    "view": {
-        "Download Setup": "/files/Count_Recorder_Setup.zip",
-        "GitHub": "https://github.com/paramsiddharth/countrecorder"
-    }
+	},
+	"view": {
+		"Download Setup": "/files/Count_Recorder_Setup.zip",
+		"GitHub": "https://github.com/paramsiddharth/countrecorder"
+	}
 }

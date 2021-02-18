@@ -1,16 +1,16 @@
 {
-    "name": "Pattern Generator",
-    "about": "A pattern generator coded in C and used in a webpage using WebAssembly.",
-    "img": "pwasm.png",
-    "details": {
-        "Author": "Param Siddharth",
-        "Type": "Web Application",
-        "User Inferface": "Graphical",
-        "Language": "C, WebAssembly, Emscripten, HTML, CSS, and JavaScript",
+	"name": "Pattern Generator",
+	"about": "A pattern generator coded in C and used in a webpage using WebAssembly.",
+	"img": "pwasm.png",
+	"details": {
+		"Author": "Param Siddharth",
+		"Type": "Web Application",
+		"User Inferface": "Graphical",
+		"Language": "C, WebAssembly, Emscripten, HTML, CSS, and JavaScript",
 		"Year": "2020"
-    },
-    "view": {
-        "Website": "http://paramsiddharth.github.io/patterns-wasm",
-        "GitHub": "https://github.com/paramsiddharth/patterns-wasm"
-    }
+	},
+	"view": {
+		"Website": "http://paramsiddharth.github.io/patterns-wasm",
+		"GitHub": "https://github.com/paramsiddharth/patterns-wasm"
+	}
 }

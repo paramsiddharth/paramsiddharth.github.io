@@ -1,16 +1,16 @@
 {
-    "name": "Cotton Leaf Disease Prediction Model",
-    "about": "An implementation of a cotton leaf disease prediction machine learning model in TensorFlow.",
-    "details": {
-        "Authors": "Param Siddharth, Ritesh Yadav",
-        "Type": "Web Application",
-        "User Inferface": "Graphical",
-        "Languages": "HTML, CSS, JavaScript, Python",
+	"name": "Cotton Leaf Disease Prediction Model",
+	"about": "An implementation of a cotton leaf disease prediction machine learning model in TensorFlow.",
+	"details": {
+		"Authors": "Param Siddharth, Ritesh Yadav",
+		"Type": "Web Application",
+		"User Inferface": "Graphical",
+		"Languages": "HTML, CSS, JavaScript, Python",
 		"Plugins Used": "Flask, Bootstrap, jQuery, and TensorFlow",
 		"Year": "2020"
-    },
-    "view": {
-        "GitHub": "https://github.com/paramsiddharth/cotton-leaf-disease",
-        "GitHub (Alternate)": "https://github.com/DARK-art108/Cotton-Leaf-Disease-Detection"
-    }
+	},
+	"view": {
+		"GitHub": "https://github.com/paramsiddharth/cotton-leaf-disease",
+		"GitHub (Alternate)": "https://github.com/DARK-art108/Cotton-Leaf-Disease-Detection"
+	}
 }

@@ -1,15 +1,15 @@
 {
-    "name": "Ai Buniyaad",
-    "about": "My first music album.",
-    "art": "aibuniyaad.jpg",
-    "details": {
-        "Artist": "Param Siddharth",
-        "Type": "Album",
-        "Year": "2016"
-    },
-    "songs": {
-        "Dushman": "dushman",
-        "Doraemon": "doraemon",
-        "O Jan-e-Jana": "ojanejana"
-    }
+	"name": "Ai Buniyaad",
+	"about": "My first music album.",
+	"art": "aibuniyaad.jpg",
+	"details": {
+		"Artist": "Param Siddharth",
+		"Type": "Album",
+		"Year": "2016"
+	},
+	"songs": {
+		"Dushman": "dushman",
+		"Doraemon": "doraemon",
+		"O Jan-e-Jana": "ojanejana"
+	}
 }

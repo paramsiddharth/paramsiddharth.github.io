@@ -1,19 +1,19 @@
 {
-    "name": "CMD_Accounts+Net",
-    "about": "A command line interface-based application that performs simple operations, with an interesting Easter-egg utility.",
-    "img": "softpedia100.png",
-    "details": {
-        "Author": "Param Siddharth",
-        "Type": "Set of 2 Utilities",
-        "User Inferface": "Command-Line",
-        "Operating System": "Windows XP+ (32-Bit)",
-        "Language": "Windows Batch",
+	"name": "CMD_Accounts+Net",
+	"about": "A command line interface-based application that performs simple operations, with an interesting Easter-egg utility.",
+	"img": "softpedia100.png",
+	"details": {
+		"Author": "Param Siddharth",
+		"Type": "Set of 2 Utilities",
+		"User Inferface": "Command-Line",
+		"Operating System": "Windows XP+ (32-Bit)",
+		"Language": "Windows Batch",
 		"Years": "2013-2016",
-        "Award": "Certified 100% Secure by Softpedia"
-    },
-    "view": {
-        "Download Setup": "/files/CMD_Accounts%2BNet_Setup.zip",
-        "Softpedia": "http://www.softpedia.com/get/System/System-Miscellaneous/CMD-Accounts-Net.shtml",
-        "GitHub": "https://github.com/paramsiddharth/cmdaccountsnet"
-    }
+		"Award": "Certified 100% Secure by Softpedia"
+	},
+	"view": {
+		"Download Setup": "/files/CMD_Accounts%2BNet_Setup.zip",
+		"Softpedia": "http://www.softpedia.com/get/System/System-Miscellaneous/CMD-Accounts-Net.shtml",
+		"GitHub": "https://github.com/paramsiddharth/cmdaccountsnet"
+	}
 }

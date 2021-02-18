@@ -1,15 +1,15 @@
 {
-    "name": "Covers",
-    "about": "My song covers.",
-    "art": "covers.jpg",
-    "details": {
-        "Artist": "Param Siddharth",
-        "Type": "Covers",
-        "Year": "2017"
-    },
-    "songs": {
-        "Angel Eyes": "angeleyes",
-        "Chalte-Chalte": "chaltechalte",
-        "Doraemon": "doraemon"
-    }
+	"name": "Covers",
+	"about": "My song covers.",
+	"art": "covers.jpg",
+	"details": {
+		"Artist": "Param Siddharth",
+		"Type": "Covers",
+		"Year": "2017"
+	},
+	"songs": {
+		"Angel Eyes": "angeleyes",
+		"Chalte-Chalte": "chaltechalte",
+		"Doraemon": "doraemon"
+	}
 }

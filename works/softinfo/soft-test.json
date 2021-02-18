@@ -1,17 +1,17 @@
 {
-    "name": "nam",
-    "about": "hA",
-    "img": "softpedia100.png",
-    "details": {
-        "Author": "Param Siddharth",
-        "Type": "Utility",
-        "User Inferface": "Command-Line",
-        "Language": "",
-        "Plugins": "",
+	"name": "nam",
+	"about": "hA",
+	"img": "softpedia100.png",
+	"details": {
+		"Author": "Param Siddharth",
+		"Type": "Utility",
+		"User Inferface": "Command-Line",
+		"Language": "",
+		"Plugins": "",
 		"Year": ""
-    },
-    "view": {
-        "Download Executable": "",
-        "Download Source": ""
-    }
+	},
+	"view": {
+		"Download Executable": "",
+		"Download Source": ""
+	}
 }

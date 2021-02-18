@@ -1,27 +1,27 @@
 {
-    "name": "",
-    "about": "",
-    "art": "",
-    "details": {
-        "Artist": "Param Siddharth",
-        "Type": "Single/Album Track",
-        "Album": [
-            "Name",
-            "urlname"
-        ],
-        "Genre": "",
-        "Language": "",
-        "Length": "",
-        "Year": ""
-    },
-    "listen": {
-        "Download MP3": "",
-        "Spotify": "",
-        "Apple Music & iTunes": "",
-        "YouTube": "",
-        "Amazon": "",
-        "JioSaavn": "",
-        "Deezer": ""
-    },
-    "lyrics": ""
+	"name": "",
+	"about": "",
+	"art": "",
+	"details": {
+		"Artist": "Param Siddharth",
+		"Type": "Single/Album Track",
+		"Album": [
+			"Name",
+			"urlname"
+		],
+		"Genre": "",
+		"Language": "",
+		"Length": "",
+		"Year": ""
+	},
+	"listen": {
+		"Download MP3": "",
+		"Spotify": "",
+		"Apple Music & iTunes": "",
+		"YouTube": "",
+		"Amazon": "",
+		"JioSaavn": "",
+		"Deezer": ""
+	},
+	"lyrics": ""
 }

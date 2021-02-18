@@ -1,18 +1,18 @@
 {
-    "name": "COVID-19 Predictor (Neerog Jeevan)",
-    "about": "A simple web application that predicts the chances for a person's being infected by COVID-19 based on symptoms.",
-    "img": "juethacks2020_fp.jpg",
-    "details": {
-        "Authors": "Param Siddharth, Ritesh Yadav, Harsh Marolia, Paridhi Malav, and Sushant Sharma (BugBusters)",
-        "Type": "Web Application",
-        "User Inferface": "Graphical",
-        "Languages": "HTML, CSS, JavaScript, Python, SQL",
+	"name": "COVID-19 Predictor (Neerog Jeevan)",
+	"about": "A simple web application that predicts the chances for a person's being infected by COVID-19 based on symptoms.",
+	"img": "juethacks2020_fp.jpg",
+	"details": {
+		"Authors": "Param Siddharth, Ritesh Yadav, Harsh Marolia, Paridhi Malav, and Sushant Sharma (BugBusters)",
+		"Type": "Web Application",
+		"User Inferface": "Graphical",
+		"Languages": "HTML, CSS, JavaScript, Python, SQL",
 		"Plugins Used": "Flask, Bootstrap, jQuery, and SQLite3",
 		"Year": "2020",
 		"Award": "First position in JUETHacks 2020"
-    },
-    "view": {
-        "Website": "http://covid-predict-app.herokuapp.com",
-        "GitHub": "https://github.com/DARK-art108/JUEThacks2020/tree/master/SUBMISSION/BugBusters"
-    }
+	},
+	"view": {
+		"Website": "http://covid-predict-app.herokuapp.com",
+		"GitHub": "https://github.com/DARK-art108/JUEThacks2020/tree/master/SUBMISSION/BugBusters"
+	}
 }

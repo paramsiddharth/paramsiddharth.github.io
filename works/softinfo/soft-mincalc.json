@@ -1,15 +1,15 @@
 {
-    "name": "Minimalistic Calculator",
-    "about": "A minimalistic calculator.",
-    "details": {
-        "Author": "Param Siddharth",
-        "Type": "Web Application",
-        "User Inferface": "Graphical",
-        "Languages": "HTML, CSS, and JavaScript",
+	"name": "Minimalistic Calculator",
+	"about": "A minimalistic calculator.",
+	"details": {
+		"Author": "Param Siddharth",
+		"Type": "Web Application",
+		"User Inferface": "Graphical",
+		"Languages": "HTML, CSS, and JavaScript",
 		"Year": "2020"
-    },
-    "view": {
-        "Website": "https://paramsiddharth.github.io/mincalc/",
-        "GitHub": "https://github.com/paramsiddharth/mincalc"
-    }
+	},
+	"view": {
+		"Website": "https://paramsiddharth.github.io/mincalc/",
+		"GitHub": "https://github.com/paramsiddharth/mincalc"
+	}
 }

@@ -1,15 +1,15 @@
 {
-    "name": "India City",
-    "about": "A 2-dimensional top-view real-life police officer simulation game.",
-    "details": {
-        "Author": "Param Siddharth",
-        "Type": "Simulation Game",
-        "User Interface": "Full-Screen Game",
-        "Operating System": "Windows XP+ (32-Bit)",
-        "Built Using": "GameMaker",
+	"name": "India City",
+	"about": "A 2-dimensional top-view real-life police officer simulation game.",
+	"details": {
+		"Author": "Param Siddharth",
+		"Type": "Simulation Game",
+		"User Interface": "Full-Screen Game",
+		"Operating System": "Windows XP+ (32-Bit)",
+		"Built Using": "GameMaker",
 		"Years": "2014-2016"
-    },
-    "view": {
-        "Download Setup": "/files/India_City_Setup.zip"
-    }
+	},
+	"view": {
+		"Download Setup": "/files/India_City_Setup.zip"
+	}
 }

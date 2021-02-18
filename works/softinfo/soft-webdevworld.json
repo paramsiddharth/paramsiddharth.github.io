@@ -1,16 +1,16 @@
 {
-    "name": "Web Development World",
-    "about": "A submission for Progate's Week of Learning programme, this project intends to encourage web development to new learners. Used images belong to different parties.",
-    "details": {
-        "Author": "Param Siddharth",
-        "Type": "Website",
-        "User Inferface": "Graphical",
-        "Languages": "HTML, CSS, and JavaScript",
+	"name": "Web Development World",
+	"about": "A submission for Progate's Week of Learning programme, this project intends to encourage web development to new learners. Used images belong to different parties.",
+	"details": {
+		"Author": "Param Siddharth",
+		"Type": "Website",
+		"User Inferface": "Graphical",
+		"Languages": "HTML, CSS, and JavaScript",
 		"Year": "2019",
 		"Award": "First position in Progate's Week of Learning Webathon"
-    },
-    "view": {
-        "Website": "http://paramsiddharth.github.io/webdevworld",
-        "GitHub": "https://github.com/paramsiddharth/webdevworld"
-    }
+	},
+	"view": {
+		"Website": "http://paramsiddharth.github.io/webdevworld",
+		"GitHub": "https://github.com/paramsiddharth/webdevworld"
+	}
 }

@@ -1,15 +1,15 @@
 {
-    "name": "Confessions@JUET",
-    "about": "A confession submission website with proper styling and scripting. Originally meant for use in Jaypee University of Engineering and Technology. Parts of the logo and the images belong to the same college.",
-    "details": {
-        "Author": "Param Siddharth",
-        "Type": "Web Application",
-        "User Inferface": "Graphical",
-        "Languages": "HTML, CSS, and PHP",
+	"name": "Confessions@JUET",
+	"about": "A confession submission website with proper styling and scripting. Originally meant for use in Jaypee University of Engineering and Technology. Parts of the logo and the images belong to the same college.",
+	"details": {
+		"Author": "Param Siddharth",
+		"Type": "Web Application",
+		"User Inferface": "Graphical",
+		"Languages": "HTML, CSS, and PHP",
 		"Year": "2019"
-    },
-    "view": {
-        "Website (might be expired)": "http://juet.epizy.com/",
-        "GitHub": "https://github.com/paramsiddharth/confessatjuet"
-    }
+	},
+	"view": {
+		"Website (might be expired)": "http://juet.epizy.com/",
+		"GitHub": "https://github.com/paramsiddharth/confessatjuet"
+	}
 }

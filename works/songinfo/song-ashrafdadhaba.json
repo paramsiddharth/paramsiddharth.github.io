@@ -1,23 +1,23 @@
 {
-    "name": "Ashraf da Dhaba",
-    "about": "A song for the one who wants to open a restaurant.",
-    "art": "ashrafdadhaba.jpg",
-    "details": {
-        "Artist": "Param Siddharth",
-        "Type": "Single",
-        "Genre": "Bollywood",
-        "Language": "Punjabi",
-        "Length": "02:32",
-        "Year": "2019"
-    },
-    "listen": {
-        "Download MP3": "/files/Ashraf_da_Dhaba.mp3",
-        "Spotify": "https://open.spotify.com/album/5e5BJII10qlAjgJRQQK4QI",
-        "Apple Music & iTunes": "https://music.apple.com/us/album/ashraf-da-dhaba-single/1474531984",
-        "YouTube": "https://youtu.be/NHxOogF2Ai0",
-        "Amazon": "http://www.amazon.com/gp/product/B07VR8GCV8/",
-        "JioSaavn": "https://www.jiosaavn.com/song/ashraf-da-dhaba/RV8hUCB0YkU",
-        "Deezer": "https://www.deezer.com/track/720803812"
-    },
-    "lyrics": "ਜਨਮ-ਜਨਮ ਤੋਂ ਭੁੱਖਾ ਮੈਂ । ਇੱਟ ਦੇ ਵਾਂਙੂੰ ਸੁੱਕਾ ਮੈਂ । \nਮੈਂਨੂੰ ਭੁੱਖ ਲੱਗੀ ਹੈ । ਹਾਏ ! ਭੁੱਖ ਲੱਗੀ ਹੈ । ਯਾ ਰੱਬਾ ! \nਬਹੁਤ ਹੋ ਗਿਆ ਇੰਤਜ਼ਾਰ, ਹੁਣ ਮੂੰਹ ਵਿੱਚ ਕੁਛ ਮੈਂਨੂੰ ਪਾਨਾ ਹੈ । \nਚਾਹੀਦਾ ਮੈਂਨੂੰ ਖਾਣਾ ਹੈ । ਅਸ਼ਰਫ਼ ਦੇ ਢਾਬੇ ਜਾਣਾ ਹੈ । \n\nਆ ਜਾ, ਕਰੀਏ ਸ਼ੋਰ-ਸ਼ਰਾਬਾ ― \nਇਹ ਹੈ ਅਸ਼ਰਫ਼ ਦਾ ਢਾਬਾ, ਓਏ ! \n\nਆਹਾ ! ਆਹਾ ! ਕਿਆ ਖ਼ੁਸ਼ਬੂ ਹੈ । \nਮੈਂ ਤਾਂ ਸਮਝ ਗਿਆ, ਅਸ਼ਰਫ਼, ਤੂੰ ਹੈ । \n\nਜਦ ਖਾਣ ਦਾ ਦਿਲ ਹੋਇਆ ਨਾਨ-ਪਕੌੜੀ ਤਦ ਆਇਆ ਮੈਂ ਤੇਰੇ ਢਾਬੇ ਤੇ । \nਖ਼ੁਸ਼ਬੂ ਤੋਂ ਮਦਹੋਸ਼ ਜਹਾਂ, ਅਚਰਜ ਨਹੀਂ ਸ਼ੋਰ-ਸ਼ਰਾਬੇ ਤੇ । \n\nਝਟਪਟ ਤੇਰੇ ਨਾਲ ਮਿਲਣ ਲਈ ਛੱਡਕੇ ਦਿੱਲੀ ਦਾ ਲੰਗਰ \nਆਇਆ, ਇੰਤਜ਼ਾਰ ਵਿੱਚ ਰਹਾਂ ਫੁਦਕਦਾ ਜਿਵੇਂ ਫੁਦਕਦਾ ਬੰਦਰ, ਓਏ ! \n\nਜ਼ਰਾ ਛੇਤੀ ਕਰ, ਰੇ ਬਾਬਾ !\nਇਹ ਹੈ ਅਸ਼ਰਫ਼ ਦਾ ਢਾਬਾ, ਓਏ !"
+	"name": "Ashraf da Dhaba",
+	"about": "A song for the one who wants to open a restaurant.",
+	"art": "ashrafdadhaba.jpg",
+	"details": {
+		"Artist": "Param Siddharth",
+		"Type": "Single",
+		"Genre": "Bollywood",
+		"Language": "Punjabi",
+		"Length": "02:32",
+		"Year": "2019"
+	},
+	"listen": {
+		"Download MP3": "/files/Ashraf_da_Dhaba.mp3",
+		"Spotify": "https://open.spotify.com/album/5e5BJII10qlAjgJRQQK4QI",
+		"Apple Music & iTunes": "https://music.apple.com/us/album/ashraf-da-dhaba-single/1474531984",
+		"YouTube": "https://youtu.be/NHxOogF2Ai0",
+		"Amazon": "http://www.amazon.com/gp/product/B07VR8GCV8/",
+		"JioSaavn": "https://www.jiosaavn.com/song/ashraf-da-dhaba/RV8hUCB0YkU",
+		"Deezer": "https://www.deezer.com/track/720803812"
+	},
+	"lyrics": "ਜਨਮ-ਜਨਮ ਤੋਂ ਭੁੱਖਾ ਮੈਂ । ਇੱਟ ਦੇ ਵਾਂਙੂੰ ਸੁੱਕਾ ਮੈਂ । \nਮੈਂਨੂੰ ਭੁੱਖ ਲੱਗੀ ਹੈ । ਹਾਏ ! ਭੁੱਖ ਲੱਗੀ ਹੈ । ਯਾ ਰੱਬਾ ! \nਬਹੁਤ ਹੋ ਗਿਆ ਇੰਤਜ਼ਾਰ, ਹੁਣ ਮੂੰਹ ਵਿੱਚ ਕੁਛ ਮੈਂਨੂੰ ਪਾਨਾ ਹੈ । \nਚਾਹੀਦਾ ਮੈਂਨੂੰ ਖਾਣਾ ਹੈ । ਅਸ਼ਰਫ਼ ਦੇ ਢਾਬੇ ਜਾਣਾ ਹੈ । \n\nਆ ਜਾ, ਕਰੀਏ ਸ਼ੋਰ-ਸ਼ਰਾਬਾ ― \nਇਹ ਹੈ ਅਸ਼ਰਫ਼ ਦਾ ਢਾਬਾ, ਓਏ ! \n\nਆਹਾ ! ਆਹਾ ! ਕਿਆ ਖ਼ੁਸ਼ਬੂ ਹੈ । \nਮੈਂ ਤਾਂ ਸਮਝ ਗਿਆ, ਅਸ਼ਰਫ਼, ਤੂੰ ਹੈ । \n\nਜਦ ਖਾਣ ਦਾ ਦਿਲ ਹੋਇਆ ਨਾਨ-ਪਕੌੜੀ ਤਦ ਆਇਆ ਮੈਂ ਤੇਰੇ ਢਾਬੇ ਤੇ । \nਖ਼ੁਸ਼ਬੂ ਤੋਂ ਮਦਹੋਸ਼ ਜਹਾਂ, ਅਚਰਜ ਨਹੀਂ ਸ਼ੋਰ-ਸ਼ਰਾਬੇ ਤੇ । \n\nਝਟਪਟ ਤੇਰੇ ਨਾਲ ਮਿਲਣ ਲਈ ਛੱਡਕੇ ਦਿੱਲੀ ਦਾ ਲੰਗਰ \nਆਇਆ, ਇੰਤਜ਼ਾਰ ਵਿੱਚ ਰਹਾਂ ਫੁਦਕਦਾ ਜਿਵੇਂ ਫੁਦਕਦਾ ਬੰਦਰ, ਓਏ ! \n\nਜ਼ਰਾ ਛੇਤੀ ਕਰ, ਰੇ ਬਾਬਾ !\nਇਹ ਹੈ ਅਸ਼ਰਫ਼ ਦਾ ਢਾਬਾ, ਓਏ !"
 }

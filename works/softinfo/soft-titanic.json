@@ -1,15 +1,15 @@
 {
-    "name": "Titanic Survival Prediction",
-    "about": "A web application that predicts the survival of a Titanic passenger.",
-    "details": {
-        "Author": "Param Siddharth",
-        "Type": "Web Application",
-        "User Inferface": "Graphical",
-        "Languages": "Python, HTML, CSS, and JavaScript",
-        "Plugins Used": "Bootstrap, React, Flask, Pandas, NumPy, Matplotlib, and Scikit-Learn",
+	"name": "Titanic Survival Prediction",
+	"about": "A web application that predicts the survival of a Titanic passenger.",
+	"details": {
+		"Author": "Param Siddharth",
+		"Type": "Web Application",
+		"User Inferface": "Graphical",
+		"Languages": "Python, HTML, CSS, and JavaScript",
+		"Plugins Used": "Bootstrap, React, Flask, Pandas, NumPy, Matplotlib, and Scikit-Learn",
 		"Year": "2020"
-    },
-    "view": {
-        "GitHub": "https://github.com/paramsiddharth/titanic-prediction"
-    }
+	},
+	"view": {
+		"GitHub": "https://github.com/paramsiddharth/titanic-prediction"
+	}
 }

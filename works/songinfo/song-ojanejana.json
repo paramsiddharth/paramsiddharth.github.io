@@ -1,27 +1,27 @@
 {
-    "name": "O Jan-e-Jana",
-    "about": "A love song, and the first song I made.",
-    "art": "aibuniyaad.jpg",
-    "details": {
-        "Artist": "Param Siddharth",
-        "Type": "Album Track",
-        "Album": [
-            "Ai Buniyaad",
-            "aibuniyaad"
-        ],
-        "Genre": "Bollywood",
-        "Language": "Hindi",
-        "Length": "05:26",
-        "Year": "2016"
-    },
-    "listen": {
-        "Download MP3": "/files/O_Jan-e-Jana.mp3",
-        "Spotify": "https://open.spotify.com/album/584CwgFLw0jiwnUziz2KNv",
-        "Apple Music & iTunes": "https://itunes.apple.com/us/album/ai-buniyaad-single/1443699308",
-        "YouTube": "https://youtu.be/9iyq-BGmlNg",
-        "Amazon": "http://www.amazon.com/gp/product/B07KPWGJW2/",
-        "JioSaavn": "https://www.jiosaavn.com/album/ai-buniyaad/7BIcFtlrZHY_",
-        "Deezer": "https://www.deezer.com/album/79315532"
-    },
-    "lyrics": "[मैंने] जाना, ओ जान-के-जाना ! \n[कि] तेरा मैं हूँ दीवाना । \nमाना, तुझको है [अपना] माना \nहो SSS । जाना… । \n\nपिछले जन्म में हमलोग साथ-साथ ही [पैदा] हुए थे । \nइस जन्म में भी हम साथ-साथ ही मरेंगे । जाना… । \n\nकोई चाहे जितनी भी कोशिशें जुटा ले, \nहम एक-दूसरे से अलग नहीं रहेंगे । जाना… । \n\nजाना… ।"
+	"name": "O Jan-e-Jana",
+	"about": "A love song, and the first song I made.",
+	"art": "aibuniyaad.jpg",
+	"details": {
+		"Artist": "Param Siddharth",
+		"Type": "Album Track",
+		"Album": [
+			"Ai Buniyaad",
+			"aibuniyaad"
+		],
+		"Genre": "Bollywood",
+		"Language": "Hindi",
+		"Length": "05:26",
+		"Year": "2016"
+	},
+	"listen": {
+		"Download MP3": "/files/O_Jan-e-Jana.mp3",
+		"Spotify": "https://open.spotify.com/album/584CwgFLw0jiwnUziz2KNv",
+		"Apple Music & iTunes": "https://itunes.apple.com/us/album/ai-buniyaad-single/1443699308",
+		"YouTube": "https://youtu.be/9iyq-BGmlNg",
+		"Amazon": "http://www.amazon.com/gp/product/B07KPWGJW2/",
+		"JioSaavn": "https://www.jiosaavn.com/album/ai-buniyaad/7BIcFtlrZHY_",
+		"Deezer": "https://www.deezer.com/album/79315532"
+	},
+	"lyrics": "[मैंने] जाना, ओ जान-के-जाना ! \n[कि] तेरा मैं हूँ दीवाना । \nमाना, तुझको है [अपना] माना \nहो SSS । जाना… । \n\nपिछले जन्म में हमलोग साथ-साथ ही [पैदा] हुए थे । \nइस जन्म में भी हम साथ-साथ ही मरेंगे । जाना… । \n\nकोई चाहे जितनी भी कोशिशें जुटा ले, \nहम एक-दूसरे से अलग नहीं रहेंगे । जाना… । \n\nजाना… ।"
 }

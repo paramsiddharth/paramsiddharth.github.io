@@ -1,15 +1,15 @@
 {
-    "name": "PROTATE",
-    "about": "A command-line utility that rotates each character in an ASCII text file by a certain order. The rotation mechanism is similar to ROT13. Here, each ASCII character is rotated by its ASCII value.",
-    "details": {
-        "Author": "Param Siddharth",
-        "Type": "Utility",
-        "User Inferface": "Command-Line",
-        "Language": "C",
+	"name": "PROTATE",
+	"about": "A command-line utility that rotates each character in an ASCII text file by a certain order. The rotation mechanism is similar to ROT13. Here, each ASCII character is rotated by its ASCII value.",
+	"details": {
+		"Author": "Param Siddharth",
+		"Type": "Utility",
+		"User Inferface": "Command-Line",
+		"Language": "C",
 		"Year": "2020"
-    },
-    "view": {
-        "Documentation": "http://paramsiddharth.github.io/protate",
-        "GitHub": "https://github.com/paramsiddharth/protate"
-    }
+	},
+	"view": {
+		"Documentation": "http://paramsiddharth.github.io/protate",
+		"GitHub": "https://github.com/paramsiddharth/protate"
+	}
 }

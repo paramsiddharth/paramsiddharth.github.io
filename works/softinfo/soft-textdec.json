@@ -1,17 +1,17 @@
 {
-    "name": "Text Decorator",
-    "about": "A free utility for decorating text, performing transformations, and more.",
-    "img": "textdec-sample.png",
-    "details": {
-        "Author": "Param Siddharth",
-        "Type": "Web Utility",
-        "User Inferface": "Graphical",
-        "Languages": "HTML, CSS, JavaScript",
+	"name": "Text Decorator",
+	"about": "A free utility for decorating text, performing transformations, and more.",
+	"img": "textdec-sample.png",
+	"details": {
+		"Author": "Param Siddharth",
+		"Type": "Web Utility",
+		"User Inferface": "Graphical",
+		"Languages": "HTML, CSS, JavaScript",
 		"Plugins Used": "jQuery, Popper.js, Bootstrap, and FontAwesome",
-        "Year": "2020"
-    },
-    "view": {
-        "Website": "https://paramsiddharth.github.io/textdec",
-        "GitHub": "https://github.com/paramsiddharth/textdec"
-    }
+		"Year": "2020"
+	},
+	"view": {
+		"Website": "https://paramsiddharth.github.io/textdec",
+		"GitHub": "https://github.com/paramsiddharth/textdec"
+	}
 }

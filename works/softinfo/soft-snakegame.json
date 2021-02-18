@@ -1,14 +1,14 @@
 {
-    "name": "Snake Game",
-    "about": "A simple recreation of the traditional snake game.",
-    "details": {
-        "Author": "Param Siddharth",
-        "Type": "Game",
-        "User Inferface": "Command-Line",
-        "Language": "C++",
+	"name": "Snake Game",
+	"about": "A simple recreation of the traditional snake game.",
+	"details": {
+		"Author": "Param Siddharth",
+		"Type": "Game",
+		"User Inferface": "Command-Line",
+		"Language": "C++",
 		"Year": "2020"
-    },
-    "view": {
-        "GitHub": "https://github.com/paramsiddharth/snakegame"
-    }
+	},
+	"view": {
+		"GitHub": "https://github.com/paramsiddharth/snakegame"
+	}
 }
