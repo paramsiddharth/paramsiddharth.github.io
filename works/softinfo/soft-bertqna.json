@@ -1,0 +1,16 @@
+{
+	"name": "Answering Questions using BERT",
+	"about": "An application that answers questions using the distilBERT model, a lighter and faster variant of the BERT model.",
+	"img": "bert.gif",
+	"details": {
+		"Authors": "Param Siddharth, Ritesh Yadav",
+		"Type": "Web Application",
+		"User Inferface": "Graphical",
+		"Languages": "HTML, CSS, JavaScript, Python",
+		"Plugins Used": "React, Material-UI, Flask, and TensorFlow",
+		"Year": "2021"
+	},
+	"view": {
+		"GitHub": "https://github.com/paramsiddharth/bert-qna"
+	}
+}
