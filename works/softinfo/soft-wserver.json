@@ -1,0 +1,14 @@
+{
+	"name": "Web Server Suite",
+	"about": "A collection of web server technologies with respective examples and Dockerfiles, containing implementations from base OS images as well as official images from Docker Hub.",
+	"details": {
+		"Author": "Param Siddharth",
+		"Type": "Web Server Applications",
+		"User Inferface": "Comamnd-Line",
+		"Language": "Dockerfile",
+		"Year": "2021"
+	},
+	"view": {
+		"GitHub": "https://github.com/paramsiddharth/web-server-suite"
+	}
+}
