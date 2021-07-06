@@ -1,0 +1,16 @@
+{
+	"name": "Svaasthy",
+	"about": "A card-based health information storage provider.",
+	"details": {
+		"Authors": "Param Siddharth, Deepak Verma, Kanak, and Ankita Pal",
+		"Type": "Web Application",
+		"User Inferface": "Graphical",
+		"Languages": "Vanilla, Express (NodeJS)",
+		"Plugins Used": "jQuery, PyTube, JSON Web Token, Mongoose",
+		"Year": "2021"
+	},
+	"view": {
+		"Website": "https://mountain-hackers.github.io/svaasthy/",
+		"GitHub": "https://github.com/mountain-hackers/svaasthy"
+	}
+}

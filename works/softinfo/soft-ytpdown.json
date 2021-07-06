@@ -1,0 +1,16 @@
+{
+	"name": "YouTube Playlist Downloader",
+	"about": "Download entire YouTube playlists with ease.",
+	"details": {
+		"Authors": "Param Siddharth, and Harsh Marolia",
+		"Type": "Web Application",
+		"User Inferface": "Graphical",
+		"Languages": "Vanilla, Flask (Python)",
+		"Plugins Used": "jQuery, PyTube",
+		"Year": "2021"
+	},
+	"view": {
+		"Website": "https://y-t-downloader.herokuapp.com/",
+		"GitHub": "https://github.com/HarshMarolia/Youtube-Playlist-Downloader"
+	}
+}
