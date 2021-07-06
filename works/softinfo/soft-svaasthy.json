@@ -6,7 +6,7 @@
 		"Type": "Web Application",
 		"User Inferface": "Graphical",
 		"Languages": "Vanilla, Express (NodeJS)",
-		"Plugins Used": "jQuery, PyTube, JSON Web Token, Mongoose",
+		"Plugins Used": "jQuery, JSON Web Token, Mongoose",
 		"Year": "2021"
 	},
 	"view": {
