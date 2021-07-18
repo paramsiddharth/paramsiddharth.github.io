@@ -6,25 +6,20 @@ desk = false;
 
 $(function() {
 	sizeHandler();
-
+	$('#top').show();
+	$('#main').css({
+		'padding-top': '+=' + $('#top').outerHeight()//+$('#menu').outerHeight()
+	});
 });
 
 const sizeHandler = function() {
 	if ($(window).width() < 992) {
-		$('#top').show();
-		$('#main').css({
-			'padding-top': '+=' + $('#top').outerHeight()//+$('#menu').outerHeight()
-		});
 		$('#bottom').show();
 		$('.desktop').hide();
 		if (!mob) mobileHandler();
 	} else {
-		$('#top').show();
 		$('.top-menu').hide();
 		$('#menu').show();
-		$('#main').css({
-			'padding-top': '+=' + $('#top').outerHeight()//+$('#menu').outerHeight()
-		});
 		$('.mobile').hide();
 		$('#bottom').show();
 	}
