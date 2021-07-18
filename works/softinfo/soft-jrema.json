@@ -1,0 +1,16 @@
+{
+	"name": "Jugaadu Rema",
+	"about": "A simple certificate generation and management system, the original Rema minus the server-side hassle.",
+	"img": "rema.svg",
+	"details": {
+		"Author": "Param Siddharth",
+		"Type": "Web Application",
+		"User Inferface": "Graphical (Generated Static Webpages)",
+		"Languages": "HTML, CSS, JavaScript, NodeJS",
+		"Plugins Used": "jQuery, Bootstrap, FontAwesome, and the Canvas API",
+		"Year": "2021"
+	},
+	"view": {
+		"GitHub": "https://github.com/paramsiddharth/rema-jugaadu"
+	}
+}

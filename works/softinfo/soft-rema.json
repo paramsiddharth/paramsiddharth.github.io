@@ -1,0 +1,16 @@
+{
+	"name": "Rema",
+	"about": "A powerful certificate generation and management system.",
+	"img": "rema.svg",
+	"details": {
+		"Author": "Param Siddharth",
+		"Type": "Web Application and API",
+		"User Inferface": "Graphical, REST API",
+		"Languages": "HTML, CSS, JavaScript, NodeJS",
+		"Plugins Used": "jQuery, Bootstrap, FontAwesome, the Canvas API, and Express",
+		"Year": "2021"
+	},
+	"view": {
+		"GitHub": "https://github.com/paramsiddharth/rema"
+	}
+}
