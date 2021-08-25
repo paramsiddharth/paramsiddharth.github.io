@@ -1,6 +1,11 @@
 @font-face {
 	font-family: PTSans;
-	src: url('PTSans-Bold.ttf') format('truetype');
+	src: url('fonts/PTSans-Bold.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: Kaithi;
+	src: url('fonts/NotoSansKaithi-Regular.ttf') format('truetype');
 }
 
 :root {
@@ -42,7 +47,7 @@ a:hover {
 }
 
 body {
-	font-family: PTSans;
+	font-family: PTSans, Kokila, Kaithi;
 	padding: 0;
 	margin: 0;
 	background: var(--bg);
