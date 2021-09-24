@@ -65,6 +65,8 @@ const getSong = () => {
 				alt: prop,
 				href: obj.listen[prop]
 			});
+			if (prop.toLowerCase().includes('download'))
+				t = t.attr({ download: obj.listen[prop].split('/').at(-1) });
 			list.append($('<li></li>').append(t));
 		}
 		t = $('<a target="_blank"></a>').text("More...").attr({
