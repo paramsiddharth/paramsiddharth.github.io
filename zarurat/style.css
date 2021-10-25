@@ -11,6 +11,39 @@
 :root {
 	scroll-behavior: smooth;
 	zoom: 100%;
+}
+
+body {
+	--bg: #FEBCB9;
+	--txcolour: #221219;
+	--linkcolour: #882e70;
+	--linkhover: #17174D;
+	--topbg: #70245c;
+	--toptx: #b6ffcc;
+	--titlesize: 30px;
+	--menubg: #581747;
+	--menubtnhovbg: #571945;
+	--menutx: #BBB;
+	--menusize: 27px;
+	--menuactive: azure;
+	--menuhover: #FFF;
+	--menubord: ridge 1px #C46CB8;
+	--menushade: 0 2px 2px #222;
+	--breadbg: #dd8caa;
+	--breadtx: #4b4b4b;
+	--breadother: #4d4d4d;
+	--breadactive: #1a1a1a;
+	--mainhead: 28px;
+	--codetx: #ffb0ea;
+	--codebg: #5a1548;
+	--hcolour: #321081;
+	--bottombg: #70245C;
+	--bottomtx: #DDD;
+	--bottomlink: #ff74ec;
+	--bottomlinkhover: #ffabf4;
+}
+
+body[theme='dark'] {
 	--bg: #000;
 	--txcolour: #FFF;
 	--linkcolour: #5F5;
@@ -38,11 +71,42 @@
 	--bottomtx: #DDD;
 }
 
+body[theme='blossom'] {
+	--bg: #FEBCB9;
+	--txcolour: #221219;
+	--linkcolour: #882e70;
+	--linkhover: #17174D;
+	--topbg: #70245c;
+	--toptx: #b6ffcc;
+	--titlesize: 30px;
+	--menubg: #581747;
+	--menubtnhovbg: #571945;
+	--menutx: #BBB;
+	--menusize: 27px;
+	--menuactive: azure;
+	--menuhover: #FFF;
+	--menubord: ridge 1px #C46CB8;
+	--menushade: 0 2px 2px #222;
+	--breadbg: #dd8caa;
+	--breadtx: #4b4b4b;
+	--breadother: #4d4d4d;
+	--breadactive: #1a1a1a;
+	--mainhead: 28px;
+	--codetx: #ffb0ea;
+	--codebg: #5a1548;
+	--hcolour: #321081;
+	--bottombg: #70245C;
+	--bottomtx: #DDD;
+	--bottomlink: #ff74ec;
+	--bottomlinkhover: #ffabf4;
+}
+
 a {
 	color: var(--linkcolour);
 }
 
-a:hover {
+a:hover,
+a:focus {
 	color: var(--linkhover);
 }
 
@@ -69,7 +133,7 @@ body {
 
 #top a {
 	text-decoration: none;
-	color: aliceblue;
+	color: var(--toptx);
 }
 
 .top-title {
@@ -295,4 +359,10 @@ p {
 
 #bottom a {
 	text-decoration: none;
+	color: var(--bottomlink, var(--linkcolour));
+}
+
+#bottom a:hover,
+#bottom a:focus {
+	color: var(--bottomlinkhover, var(--linkhover));
 }
