@@ -101,6 +101,21 @@ body[theme='blossom'] {
 	--bottomlinkhover: #ffabf4;
 }
 
+.custom-btn {
+	text-decoration: none;
+	padding: 8px;
+	border-radius: 5px;
+	display: inline-block;
+	background-color: var(--topbg);
+	color: var(--toptx);
+}
+
+.custom-btn:hover,
+.custom-btn:focus {
+	filter: brightness(120%);
+	color: var(--toptx);
+}
+
 a {
 	color: var(--linkcolour);
 }
