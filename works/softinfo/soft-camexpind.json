@@ -1,0 +1,16 @@
+{
+	"name": "GitHub Campus Experts India Website",
+	"about": "The official website of GitHub Campus Experts India.",
+	"details": {
+		"Author": "Param Siddharth",
+		"Type": "Website",
+		"User Inferface": "Graphical",
+		"Languages": "TypeScript (React)",
+		"Plugins Used": "Vite, Bootstrap, FontAwesome, Axios, Cheerio, ESLint, and zx",
+		"Year": "2022"
+	},
+	"view": {
+		"Website": "https://gce-india.github.io/",
+		"GitHub": "https://github.com/gce-india/gce-india.github.io"
+	}
+}
