@@ -1,0 +1,17 @@
+{
+	"name": "JUET Internet Authenticator",
+	"about": "An application that lets you authenticate/de-authenticate yourself to/from the Internet under the JUET LAN (Ethernet/Wi-Fi).",
+	"details": {
+		"Author": "Param Siddharth",
+		"Type": "Desktop Utility",
+		"User Inferface": "Graphical",
+		"Operating System": "Cross-Platform",
+		"Language": "Python",
+		"Plugin Used": "PySide2 (Qt for Python)",
+		"Year": "2022"
+	},
+	"view": {
+		"Download Executable(s)": "https://github.com/paramsiddharth/juet-internet-authenticator/releases",
+		"GitHub": "https://github.com/paramsiddharth/juet-internet-authenticator"
+	}
+}
