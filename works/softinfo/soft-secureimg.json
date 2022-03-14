@@ -1,0 +1,15 @@
+{
+	"name": "Secure Image Sharing",
+	"about": "A secure image sharing service.",
+	"details": {
+		"Authors": "Param Siddharth, Ritesh Yadav, Manvendra Singh, and Param Agrawal",
+		"Type": "Web Application",
+		"User Inferface": "Graphical",
+		"Languages": "HTML, CSS, JavaScript, Python, MongoDB",
+		"Plugins Used": "Flask, React, MUI, and Axios",
+		"Year": "2021"
+	},
+	"view": {
+		"GitHub": "https://github.com/paramsiddharth/secure-image-sharing"
+	}
+}

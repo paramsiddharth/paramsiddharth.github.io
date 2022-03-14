@@ -148,7 +148,7 @@ details.spoiler > summary {
 }
 
 body {
-	font-family: PTSans, Kokila, Kaithi;
+	font-family: PTSans, Kaithi;
 	padding: 0;
 	margin: 0;
 	background: var(--bg);
