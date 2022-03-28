@@ -75,7 +75,17 @@
 	background: #111315;
 }
 
-.fa-spotify {
+.btn-audiomack {
+	color: #FFF;
+	background: #222426;
+}
+
+.btn-audiomack:hover {
+	color: #FFF;
+	background: #111315;
+}
+
+	.fa-spotify {
 	color: #FFF;
 }
 
