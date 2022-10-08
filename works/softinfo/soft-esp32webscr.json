@@ -1,0 +1,14 @@
+{
+	"name": "ESP32 Web Scraper",
+	"about": "A simple web scraper that runs on an ESP-32 microcontroller.",
+	"details": {
+		"Author": "Param Siddharth",
+		"Type": "Edge Application",
+		"User Inferface": "Command-Line/Serial",
+		"Languages": "Python (MicroPython)",
+		"Year": "2022"
+	},
+	"view": {
+		"GitHub": "https://github.com/paramsiddharth/esp32-web-scraper"
+	}
+}

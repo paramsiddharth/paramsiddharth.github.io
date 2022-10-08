@@ -1,0 +1,15 @@
+{
+	"name": "JUET Overflow",
+	"about": "A discussion forum and social platform for JUETians.",
+	"details": {
+		"Authors": "Param Siddharth, Harsh Marolia",
+		"Type": "Web Application",
+		"User Inferface": "Graphical",
+		"Languages": "React, Next.js, HTML, CSS, JavaScript",
+		"Plugins Used": "JSON Web Token, Axios, Tailwind CSS",
+		"Year": "2022"
+	},
+	"view": {
+		"GitHub": "https://github.com/paramsiddharth/juet-overflow"
+	}
+}

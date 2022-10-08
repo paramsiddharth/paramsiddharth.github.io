@@ -1,0 +1,15 @@
+{
+	"name": "Desktop Weather Widget",
+	"about": "A desktop widget to show weather information to the user.",
+	"details": {
+		"Authors": "Param Siddharth, Paridhi Malav, Parishkrat Mishra",
+		"Type": "Desktop Application",
+		"User Inferface": "Graphical",
+		"Languages": "Python, Tkinter",
+		"Plugins Used": "URLlib3, OpenWeatherMap API",
+		"Year": "2022"
+	},
+	"view": {
+		"GitHub": "https://github.com/paramsiddharth/desktop-widget-project"
+	}
+}
