@@ -1,0 +1,17 @@
+{
+	"name": "Pleasant Surprises",
+	"about": "Pleasant and surprising tales, premiered daily in the Week of Pleasant Surprises.",
+	"art": "pleassurp.jpg",
+	"details": {
+		"Artist": "Param Siddharth",
+		"Type": "Album",
+		"Year": "2022"
+	},
+	"songs": {
+		"Na Kono Sikayat": "nakonosik",
+		"Delhi Se": "delhise",
+		"Pyar Zehreela": "pyarzeh",
+		"Early Morning Confusion": "earmorcon",
+		"Good Friend Bad Friend": "goodfbadf"
+	}
+}
