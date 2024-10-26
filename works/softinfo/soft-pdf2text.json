@@ -1,0 +1,15 @@
+{
+	"name": "The Ultimate PDF to Text Converter",
+	"about": "An application that can extract editable as well as scanned text from PDF files.",
+	"details": {
+		"Author": "Param Siddharth, Medha Tripathi",
+		"Type": "Command-Line Application",
+		"User Inferface": "CLI",
+		"Language": "Python",
+		"Technologies": "PyPDF2, Tesseract, PyTTSx3, Pillow",
+		"Year": "2024"
+	},
+	"view": {
+		"GitHub": "https://github.com/paramsiddharth/pdf2text"
+	}
+}

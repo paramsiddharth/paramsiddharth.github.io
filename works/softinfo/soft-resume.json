@@ -1,0 +1,16 @@
+{
+	"name": "Digital Resumé",
+	"about": "A digital resumé built using front-end web technologies.",
+	"details": {
+		"Author": "Param Siddharth",
+		"Type": "Web Application",
+		"User Inferface": "Web",
+		"Languages": "HTML, CSS, JavaScript",
+		"Technologies": "Headless Chromium",
+		"Year": "2021"
+	},
+	"view": {
+		"Website": "https://www.paramsid.com/resume",
+		"GitHub": "https://github.com/paramsiddharth/resume"
+	}
+}

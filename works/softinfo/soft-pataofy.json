@@ -1,0 +1,15 @@
+{
+	"name": "Pataofy",
+	"about": "An app to patao your favourite person (or not)!",
+	"details": {
+		"Author": "Param Siddharth, Medha Tripathi",
+		"Type": "Command-Line Application",
+		"User Inferface": "CLI",
+		"Language": "Python",
+		"Technologies": "Gemini",
+		"Year": "2024"
+	},
+	"view": {
+		"GitHub": "https://github.com/Witchcraft-Coding/pataofy"
+	}
+}

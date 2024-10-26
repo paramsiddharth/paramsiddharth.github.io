@@ -1,0 +1,16 @@
+{
+	"name": "Chatur Vani",
+	"about": "A non-living intelligent being.",
+	"img": "chatur.png",
+	"details": {
+		"Author": "Param Siddharth",
+		"Type": "Social Bot",
+		"User Inferface": "None",
+		"Language": "Python",
+		"Technologies": "Facebook Graph API, Twitter API, Deep Learning",
+		"Year": "2022"
+	},
+	"view": {
+		"GitHub": "https://github.com/paramsiddharth/chatur-vani"
+	}
+}

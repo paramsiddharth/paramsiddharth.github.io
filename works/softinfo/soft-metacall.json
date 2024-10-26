@@ -1,0 +1,14 @@
+{
+	"name": "MetaCall",
+	"about": "A polyglot runtime, the ultimate multilingual programming experience.",
+	"details": {
+		"Author": "Param Siddharth, Raj Aryan, Vicente Ferrer, José Antonio Dominguez, Harsh Bardhan Mishra",
+		"Type": "Library",
+		"User Inferface": "None",
+		"Languages": "Many",
+		"Year": "2022"
+	},
+	"view": {
+		"GitHub": "https://github.com/metacall/core"
+	}
+}

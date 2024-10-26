@@ -1,0 +1,15 @@
+{
+	"name": "Wake Up, Medha!",
+	"about": "An app to wake Medha up in the morning.",
+	"details": {
+		"Author": "Param Siddharth",
+		"Type": "Web Application",
+		"User Inferface": "Web",
+		"Language": "React",
+		"Year": "2024"
+	},
+	"view": {
+		"Website": "https://witchcraft-coding.github.io/wake-up-medha/",
+		"GitHub": "https://github.com/Witchcraft-Coding/wake-up-medha"
+	}
+}

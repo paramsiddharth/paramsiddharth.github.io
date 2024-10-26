@@ -1,0 +1,15 @@
+{
+	"name": "Amplify",
+	"about": "An open-source platform to simplify getting support for advocacy groups for their missions by getting the word out.",
+	"details": {
+		"Author": "Param Siddharth, Glenn Piludu, Mariah Morales, Manisha Priyadarshini, Jonathan Wallace, Jacob Walraff",
+		"Type": "Web Application",
+		"User Inferface": "Web",
+		"Language": "JavaScript",
+		"Technologies": "Vue, ExpressJS, Knex, Lob API, Cicero API",
+		"Year": "2022"
+	},
+	"view": {
+		"GitHub": "https://github.com/OpenSourceFellows/amplify"
+	}
+}
